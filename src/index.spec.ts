@@ -1,6 +1,5 @@
-import multiply from './multiply';
-import add from './add';
 import addAndMultiply from './add-and-multiply';
+import { add, multiply } from './calculator';
 
 it('adds 3 and 6', () => {
   expect(add(3, 6)).toEqual(9);

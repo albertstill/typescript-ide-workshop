@@ -1,5 +1,4 @@
-import multiply from './multiply';
-import add from './add';
+import { add, multiply } from './calculator';
 
 export default function addAndMultiply(
   numberOne: number,
