@@ -18,6 +18,7 @@ module.exports = {
   ],
   rules: {
     'import/extensions': 'off',
+    'max-len': 'off',
   },
   settings: {
     'import/resolver': {
