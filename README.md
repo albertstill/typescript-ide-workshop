@@ -6,7 +6,8 @@ To demo
 - finding references
 - rename times to multiply
 - refactor to another file
-- refactor 
-- auto import
+- refactor to destructured object
 - call hierarchy
+- const mess around in addAndMultiply
+- auto import
 - convert to async function
