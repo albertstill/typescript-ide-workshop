@@ -2,9 +2,11 @@ An iffy repo that will be improved via VSCode TypeScript features https://code.v
  
 To demo
 
-- finding references
 - go to definition
-- refactors
+- finding references
+- rename times to multiply
+- refactor to another file
+- refactor 
 - auto import
 - call hierarchy
 - convert to async function
