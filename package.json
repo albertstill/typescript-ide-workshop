@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "watch": "jest --watch",
+    "test": "jest",
     "lint": "eslint src/**/*.ts",
     "check": "tsc --noEmit"
   },
