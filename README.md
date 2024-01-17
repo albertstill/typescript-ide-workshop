@@ -6,10 +6,12 @@ An iffy repo that will be improved via VSCode TypeScript features https://code.v
 
 - go to definition
 - finding references
+- call hierarchy
+- go to symbols
 - rename times to multiply
 - refactor to another file
 - refactor to destructured object
-- call hierarchy
+- highlighting code then `⌘.`
 - const mess around in addAndMultiply
 - auto import
 - convert to async function
