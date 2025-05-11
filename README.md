@@ -2,6 +2,8 @@
 
 An iffy repo that will be improved via VSCode TypeScript features https://code.visualstudio.com/docs/languages/typescript.
 
+https://code.visualstudio.com/docs/typescript/typescript-refactoring.
+
 ### To demo
 
 ### Navigating
@@ -16,5 +18,6 @@ An iffy repo that will be improved via VSCode TypeScript features https://code.v
 - refactor to destructured object
 - highlighting code then `⌘.`
 - const mess around in addAndMultiply
+- infer function return type
 - auto import
 - convert to async function
