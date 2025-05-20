@@ -1,23 +1,27 @@
-### Brown bag session - TypeScript tricks in Visual Studio Code
+### A repo to play with TypeScript navigating & refactoring in Visual Studio Code
 
-An iffy repo that will be improved via VSCode TypeScript features https://code.visualstudio.com/docs/languages/typescript.
+VSCode TypeScript features https://code.visualstudio.com/docs/languages/typescript.
 
-https://code.visualstudio.com/docs/typescript/typescript-refactoring.
-
-### To demo
+Refactoring https://code.visualstudio.com/docs/typescript/typescript-refactoring.
 
 ### Navigating
+
 - go to definition
 - finding references
 - call hierarchy
 - go to symbols
 
 ### Refactoring
+
+_highlighting code then `⌘.`_
+
 - rename times to multiply
 - refactor to another file
 - refactor to destructured object
-- highlighting code then `⌘.`
-- const mess around in addAndMultiply
+- move to const in addAndMultiply
 - infer function return type
+
+### Others
+
 - auto import
 - convert to async function
