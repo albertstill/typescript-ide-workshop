@@ -1,9 +1,9 @@
 import { add, times } from './calculator';
 
-export default function addAndMultiply(
+const addAndMultiply = (
   numberOne: number,
   numberTwo: number,
   numberThree: number,
-): number {
-  return times(add(numberOne, numberTwo), numberThree);
-}
+): number => times(add(numberOne, numberTwo), numberThree)
+
+export default addAndMultiply;

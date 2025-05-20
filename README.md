@@ -20,6 +20,8 @@ _highlighting code then `⌘.`_
 - refactor to destructured object
 - move to const in addAndMultiply
 - infer function return type
+- convert to a named function
+- add curly braces
 
 ### Others
 
